@@ -1,6 +1,5 @@
-<form>
-  <label for="fname">Your Name:</label><br>
-  <input type="text" id="fname" name="fname"><br>
-  <label for="lname">Your Last name:</label><br>
-  <input type="text" id="lname" name="lname">
-</form>
+<html>
+<body>
+<h2> This is my sample code. CSK won the final! </h2>
+</body>
+</html>
